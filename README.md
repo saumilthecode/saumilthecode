@@ -7,4 +7,4 @@ yello
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saumilthecode&layout=compact&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saumilthecode)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]([https://github-profile-trophy.vercel.app/?username=saumilthecode](https://github-profile-trophy.vercel.app/?username=saumil&theme=tokyonight))](https://github.com/ryo-ma/github-profile-trophy)
